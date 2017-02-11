@@ -1,0 +1,163 @@
+/*This is the main container for the page*/
+.container-fluid {
+	background-image: url("../images/background.png");
+}
+/*This is the name on the main header*/
+.name {
+	font-weight: bold;
+}
+
+/*This is the nav bar section*/
+.nav {
+	padding-right:250px;
+}
+
+/*This is the about me header*/
+.subheader {
+	color:teal;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+/*This is the about me section*/
+.about {
+	padding:20px;
+}
+
+/*This is the picture in the about me section*/
+.auth-image {
+	height:100px;
+	width:100px;
+	float:left;
+	padding-right:10px;
+}
+
+/*This is the connect section*/
+.connect {
+	color:teal;
+	padding:10px;
+	font-weight: bold;
+}
+
+/*These are the social media images*/
+.social {
+	height:50px;
+	width:50px;
+}	
+
+/*This is the connect with me box*/
+.media {
+	height:150px;
+	width: 200px;
+}
+
+/*This is the contact me box*/
+.Contactme {
+	padding:20px;
+}
+
+/*This is the submit button on the contact me page*/
+.button {
+	background-color: teal;
+}
+
+/*This is the footer style*/		
+.footer {
+	padding: 20px;
+	background: grey;
+	text-align: center;
+	border-top: 5px solid teal;
+	color: white;
+}
+
+/*This is the about me header*/
+.subheader1 {
+	color:teal;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+/*This is the about me section*/
+.portfolio {
+	padding:20px;
+}
+
+	
+/*These are the images for the portfolio*/
+.image2 {
+  width:160px;
+  height:110px;
+  background:blue;
+  position:relative;
+  margin:10px;
+  float:left;
+  border:1px #dddddd solid;
+}
+
+.image3 {
+  width:160px;
+  height:110px;
+  background:blue;
+  position:relative;
+  margin:10px;
+  float:left;
+  border:1px #dddddd solid;
+}
+
+.image4 {
+  width:160px;
+  height:110px;
+  background:blue;
+  position:relative;
+  margin:10px;
+  float:left;
+  border:1px #dddddd solid;
+}
+
+.image4 {
+  width:160px;
+  height:110px;
+  background:blue;
+  position:relative;
+  margin:10px;
+  float:left;
+  border:1px #dddddd solid;
+}
+
+.image5 {
+  width:160px;
+  height:110px;
+  background:blue;
+  position:relative;
+  margin:10px;
+  float:left;
+  border:1px #dddddd solid;
+}
+
+.image6 {
+  width:160px;
+  height:110px;
+  background:blue;
+  position:relative;
+  margin:10px;
+  float:left;
+  border:1px #dddddd solid;
+}
+
+
+.box {
+  position:absolute;
+  bottom:0;
+  font-size:10px;
+  padding:10px;
+  background:rgba(0, 0, 0, 0.5);
+  background-color: #4aaaa5;
+  width:140px;
+  color:#dddddd;
+
+}
+
+.image2, .image3, .image4, .image5, .image6{
+  background-image: url("../images/image2.jpg");
+  background-size:cover;
+}
